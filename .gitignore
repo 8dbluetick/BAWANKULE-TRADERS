@@ -1,0 +1,18 @@
+# Exclude unrelated raw WhatsApp images copied by the prepare script
+assets/raw_images/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+prepare_images.py
+list_images.html
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
